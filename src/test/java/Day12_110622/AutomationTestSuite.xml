@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <test name="Google And Yahoo Scenarios" preserve-order="true">
+        <classes>
+            <class name="Homework_ActionItem.ActionItem11_BCBS_Class1" />
+            <class name="Homework_ActionItem.ActionItem11_BCBS_Class2" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
